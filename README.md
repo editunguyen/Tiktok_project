@@ -1,4 +1,7 @@
 **Exploring TikTok: EDA and Logistic Regression**  
+
+Dataset is taken from Kaggle website: https://www.kaggle.com/code/yakhyojon/exploring-tiktok-eda-and-logistic-regression/notebook?scriptVersionId=147151445
+
 TikTok Project 
 
 I will build a machine learning model that can be used to determine whether a video contains a claim or whether it offers an opinion.
